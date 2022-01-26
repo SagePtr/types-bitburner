@@ -6766,5 +6766,8 @@ export declare interface WarehouseAPI {
 
 export { }
 
+// Above text copied from: https://raw.githubusercontent.com/danielyxie/bitburner/dev/dist/bitburner.d.ts
+// Footer added for VSCode autocompletion compatibility
+
 export as namespace NS;
 export = NS;
